@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1970'
     url: http://www.gutenberg.org/2009/agents/1970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21671#Army-Boys-on-the-Firing-Line--or-Holding-Back-the-German-Drive
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-06-03'
 gutenberg_type: Text
