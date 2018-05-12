@@ -1,0 +1,26 @@
+_repo: Army-Boys-on-the-Firing-Line--or-Holding-Back-the-German-Drive_21671
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Randall, Homer
+    gutenberg_agent_id: '1970'
+    url: http://www.gutenberg.org/2009/agents/1970
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+title: Army Boys on the Firing Line; or, Holding Back the German Drive
+url: http://www.gutenberg.org/ebooks/21671
